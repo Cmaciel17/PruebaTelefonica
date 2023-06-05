@@ -1,0 +1,8 @@
+{
+    "editor.formatOnPaste": true,
+    "diffEditor.codeLens": true,
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "rvest.vs-code-prettier-eslint",
+    "eslint.format.enable": true
+}
